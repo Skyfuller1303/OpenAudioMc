@@ -1,0 +1,55 @@
+lang.name=Deutsch
+
+lang.detectedAs=Wir haben die Sprache auf %langName umgestellt. Möchtest du dies beibehalten?
+lang.keep=%langName beibehalten
+lang.toEn=Wechseln zu English
+
+ui.loading=Lade...
+ui.logout=Abmelden
+
+landing.title=Willkommen!
+landing.clickBelow=Willkommen %player! klicke irgendwo hier auf dieser Seite hin um deine Sitzung zu aktivieren
+landing.connectButton=Klicke irgendwo hin um dich zu verbinden
+
+main.title=Willkommen zurück,
+main.content=<div>Lasse dieses Fenster im Hintergrund geöffnet, da Musik und Sound-Effekte über dieses Fenster abgespielt werden. Du kannst jederzeit zurück kommen und die Lautstärke anpassen. Dies ist auch im Spiel möglich mit den Befehl <b>/volume</b></div>
+main.volume=Musik Lautstärke
+main.openHue=Philips Hue Einstellungen öffnen
+
+vc.notice=Hinweis
+vc.startingPopupTitle=Voicechat wird gestartet...
+vc.startingPopup=Bitte warte während du mit einen Voiceserver verbunden wirst. Dies sollte nicht allzu lange dauern.
+vc.reloadingPopupTitle=Sprachsystem wird neugeladen!
+vc.reloadingPopup=Bitte warte während der Voice Chat neustartet um neue Einstellungen zu laden... Dies sollte nicht allzu lange dauern.
+vc.updatingMicPopupTitle=Mikrofon wird aktualisiert
+vc.updatingMicPopup=Bitte warte während der Voice Chat neugestartet wird mit deinen neuen Mikrofon... Dies sollte nicht allzu lange dauern.
+vc.micErrorPopupTitle=Mikrofon Fehler
+vc.micErrorPopup=Beim Versuch, auf dein Mikrofon zuzugreifen, ist ein Fehler aufgetreten. Bitte klicke "Zulassen", wenn dein Browser dich nach der Mikrofonberechtigungen fragt, oder besuche das Wiki für weitere Informationen.
+vc.disabled=Der Voice Chat von %serverName ist temporär deaktiviert
+vc.enable=Aktiviere
+vc.enableThe=Aktiviere den
+vc.vc=Voice Chat
+vc.onboarding=Dieser Server unterstützt die Proximity Voicechat Funktion, welche dir ermöglicht dich mit Personen im Radius von %range zu reden. Möchtest du diese Funktion aktivieren und Zugriff auf dein Mikrofon zulassen?
+vc.dismiss=Ablehnen
+vc.settings=Einstellungen
+vc.muteUnmute=Stummschalten/Aktivieren Mikrofon
+vc.spatialStereo=Räumliche/Stereo Tonausgabe
+vc.speaking=Sprachindikator
+vc.sensitivity=Mikrofon Sensibilität
+vc.auto=Automatische Anpassungen
+vc.selectMic=Wähle dein Mikrofon aus
+vc.people=Spieler im
+vc.voiceRange=Sprach Radius
+vc.empty=Leider ist niemand in der Nähe. Aber keine Sorge! Ich werde dein glücklicher imaginärer Freund sein
+
+hue.hue=Philips Hue
+hue.link=Hier klicken um dich mit deiner Phillips Hue Brigde zu verbinden
+hue.preparing=Setup wird vorbereitet...
+hue.loggingIn=Anmelden...
+hue.linking=Drücke innerhalb von %sec Sekunden die Verbindungstaste auf deiner Hue Bridge, um eine Verbindung herzustellen.
+hue.connectedTo=Du bist jetzt mit deiner Hue Bridge verbunden: 
+hue.light1=Light Eins
+hue.light2=Light Zwei
+hue.light3=Light Drei
+hue.connected=Du kannst jetzt bis zu drei Lichter verknüpfen, die der Server steuert. Normalerweise von rechts nach links.
+hue.close=Schließen
